@@ -48,7 +48,7 @@ This will set "Cache-Control" header in every file deployed to max-age 1 week. T
   headers: {Metadata : { x-amz-meta-mykey: "my value" }}
 ```
 
-This will set the headers based on the fileFilter.
+This will set the headers based on the fileFilter.  Make sure all files are accounted for in the fileFilter's.  
 ``` yaml
   headers: [
     {
