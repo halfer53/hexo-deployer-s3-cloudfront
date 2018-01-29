@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-s3-cloudfront",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Amazon S3 and Cloudfront deployer plugin for Hexo",
   "main": "index",
   "keywords": [
@@ -39,10 +39,12 @@
     "hexo": "3.x"
   },
   "dependencies": {
+    "async": "^2.4.0",
     "chalk": "^1.0.0",
     "child_process": "^1.0.2",
     "cloudfront": "^0.3.3",
     "level": "^1.4.0",
+    "lodash": "^4.17.4",
     "readdirp": "^0.3.3",
     "s3-sync-aws": "^1.1.0"
   },
