@@ -1,5 +1,5 @@
 {
-  "name": "hexo-deployer-s3-cloudfront",
+  "name": "hexo-deployer-s3-cloudfront-bruce",
   "version": "0.1.5",
   "description": "Amazon S3 and Cloudfront deployer plugin for Hexo",
   "main": "index",
@@ -11,8 +11,8 @@
     "deployer"
   ],
   "author": {
-    "name": "Wouter van Lent",
-    "email": "woutervanlent@gmail.com"
+    "name": "Bruce Tan",
+    "email": "brucetansh@gmail.com"
   },
   "contributors": [
     {
@@ -26,6 +26,10 @@
     {
       "name": "Josh Strange",
       "email": "josh@joshstrange.com"
+    },
+    {
+      "name": "Bruce Tan",
+      "email": "brucetansh@gmail.com"
     }
   ],
   "repository": {
