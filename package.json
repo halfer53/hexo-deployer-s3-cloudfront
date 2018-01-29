@@ -41,6 +41,7 @@
   "dependencies": {
     "async": "^2.4.0",
     "chalk": "^1.0.0",
+    "child_process": "^1.0.2",
     "cloudfront": "^0.3.3",
     "level": "^1.4.0",
     "lodash": "^4.17.4",
