@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-s3-cloudfront-bruce",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "Amazon S3 and Cloudfront deployer plugin for Hexo",
   "main": "index",
   "keywords": [
